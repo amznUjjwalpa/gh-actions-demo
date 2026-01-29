@@ -1,2 +1,1 @@
-# gh-actions-demo
-![main workflow](https://github.com/olumidayy/gh-actions-demo/actions/workflows/main.yml/badge.svg)
+This is just a test repo for testing troubleshooting agent with a barebones GH WF setup to trigger on PRs to the main branch.
